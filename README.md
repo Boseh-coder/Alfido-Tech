@@ -18,7 +18,7 @@ speeds, and more.
 - Evaluation of wind speeds
 
 ### Usage
-To view or modify the source code for the Weather Data Analysis, navigate to the [Weather Data Analysis Code.py](https://github.com/Boseh-coder/Alfido-Tech-Internship/blob/d2751159141362eefebbf3032d387fa9cc398c58/Weather%20Data%20Analysis%20Codes.py)
+To view or modify the source code for the Weather Data Analysis, navigate to the [Weather Data Analysis Codes.py](https://github.com/Boseh-coder/Alfido-Tech-Internship/blob/d2751159141362eefebbf3032d387fa9cc398c58/Weather%20Data%20Analysis%20Codes.py)
 
 
 ## Uber Data Analysis
