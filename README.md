@@ -64,7 +64,7 @@ This involves studying data related to Uber rides, such as ride times, locations
     - Offering recommendations.
 
 ### Usage
-To view or modify the source code for the Uber Data Analysis, navigate to the [Uber Data Analysis Codes.py](<link_to_uber_data_analysis_code>)
+To view or modify the source code for the Uber Data Analysis, navigate to the [Uber Data Analysis Codes.py](https://github.com/Boseh-coder/Alfido-Tech-Internship/blob/d09e8145fe613b4340af4d3208a88187c2388628/Uber%20Data%20Analysis%20codes.py)
 
 ## Inventory Analysis Case
 Inventory data analysis involves examining and interpreting data related to a company's inventory to gain insights, make informed decisions, and optimize inventory management processes.
