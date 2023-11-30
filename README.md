@@ -25,43 +25,16 @@ To view or modify the source code for the Weather Data Analysis, navigate to the
 This involves studying data related to Uber rides, such as ride times, locations, and user ratings. The analysis can be used to understand user behavior, driver patterns, and areas of high demand.
 
 ### Features
-1. **Data Loading and Exploration**
-   - Importing necessary libraries.
-   - Loading the Uber dataset.
-   - Initial exploration of dataset structure.
-
-2. **Data Cleaning**
-   - Handling missing values.
-   - Converting data types (e.g., datetime).
-
-3. **Exploratory Data Analysis (EDA)**
-   - Visualizing ride trends.
-   - Analyzing user behavior and ride purposes.
-
-4. **Time-related Analysis**
-   - Extracting temporal information.
-   - Analyzing ride trends over months and days.
-
-5. **Distance and Purpose Analysis**
-   - Exploring ride attributes like distances and purposes.
-   - Examining correlations between ride features.
-
-6. **User and Driver Patterns**
-   - Analyzing behavior based on working hours.
-
-7. **High-Demand Areas**
-   - Identifying popular starting points and destinations.
-   - Visualizing high-demand areas.
-
-8. **Correlation Analysis**
-   - Investigating correlations between numerical features.
-
-9. **Limitations**
-   - Noting limitations in data (e.g., missing user IDs, limited time frame).
-
-10. **Conclusion and Insights**
-    - Summarizing key findings.
-    - Offering recommendations.
+- Data Loading and Exploration.
+- Data Cleaning.
+- Exploratory Data Analysis(EDA).
+- Time-related Analysis.
+- Distance and Purpose Analysis.
+- User and Driver Patterns.
+- High-Demand Areas.
+- Correlation Analysis.
+- Limitations.
+- Conclusion and Insights.
 
 ### Usage
 To view or modify the source code for the Uber Data Analysis, navigate to the [Uber Data Analysis Codes.py](https://github.com/Boseh-coder/Alfido-Tech-Internship/blob/d09e8145fe613b4340af4d3208a88187c2388628/Uber%20Data%20Analysis%20codes.py)
@@ -70,4 +43,18 @@ To view or modify the source code for the Uber Data Analysis, navigate to the [U
 Inventory data analysis involves examining and interpreting data related to a company's inventory to gain insights, make informed decisions, and optimize inventory management processes.
 
 ### Features
+
+- Data Examination.
+- Insights and Patterns.
+- Temperature Trends.
+- Precipitation Patterns.
+- Wind Speed Analysis.
+- Visualizations.
+- Insights and Recommendations.
+  
+### Usage
+To view or modify the source code for the Uber Data Analysis, navigate to the [Inventory Analysis codes.py](https://github.com/Boseh-coder/Alfido-Tech-Internship/blob/f92c16fbc0ee0cecc7f02aabb956d13c0fc88fcd/Inventory%20Analysis%20Codes.py)
+
+
+
 
